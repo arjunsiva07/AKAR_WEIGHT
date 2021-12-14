@@ -1,0 +1,3 @@
+include ':AKAR_WEIGH_LIB'
+include ':app'
+rootProject.name = "AKAR_WEIGHT"
